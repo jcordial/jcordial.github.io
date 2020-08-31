@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jcordial.github.io
 twitter_username: btomw
 github_username:  jcordial
-
+google_analytics: UA-176817365-1
 # Build settings
 theme: minima
 plugins:
